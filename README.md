@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Hans, I'm a passionate technology enthusiast with over three years of experience in different engineering fields such as mining, water, gas and so on. I have a strong passion for entrepreneurship and are always looking for ways to innovate and create something new. With a keen eye for detail and a results-oriented mindse.
+I'm Hans, I'm a passionate technology enthusiast with over three years of experience in different engineering fields such as mining, water, gas and so on. I have a strong passion for entrepreneurship and are always looking for ways to innovate and create something new. With a keen eye for detail and a results-oriented mindset.
+
 I'm currently interested in Analytics, where I can continue pursuing my passion for technology and drive results through data-driven decision-making. Here I'm going to post my projects related to the Analytics field and much more, so let's get started together on this exciting path.
 
 
