@@ -3,6 +3,8 @@
 
 ⚡I'm currently interested in Analytics, where I can continue pursuing my passion for technology and drive results through data-driven decision-making. Here I'm going to post my projects related to the Analytics field and much more, so let's get started together on this exciting path.
 
+Links
+https://learn.microsoft.com/es-es/users/hansrojas/
 
 <!--
 🌱 I’m currently learning at Unicorn Project 4.0
