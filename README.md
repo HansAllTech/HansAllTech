@@ -1,10 +1,16 @@
 ![banner hans linkedin 1 (3)](https://user-images.githubusercontent.com/116538899/233757130-a89009e9-8fad-450d-ba57-488620c80fb0.png)
 
 
-### Hi there 👋
+# Hi there 👋
 ⚡I'm Hans, I'm a passionate technology enthusiast with over three years of experience in different engineering fields such as mining, water, gas and so on. I have a strong passion for entrepreneurship and are always looking for ways to innovate and create something new. With a keen eye for detail and a results-oriented mindset.
 
-⚡I'm currently interested in Analytics, where I can continue pursuing my passion for technology and drive results through data-driven decision-making. Here I'm going to post my projects related to the Analytics field and much more, so let's get started together on this exciting path.
+⚡I'm currently interested in Analytics, where I can continue pursuing my passion for technology and drive results through data-driven decision-making. Here I'm going to post my projects related to the Analytics field and much more, so let's get started together on this exciting path. 
+
+- 🌱 My Portfolio Projects are in: [Data Analysis Portfolio](https://github.com/HansAllTech/Hans_Data_Analysis_Portfolio#hans---data-analysis-portfolio)
+
+- 👨‍💻 My Tableau Projects are at: Priyanka Jha - Tableau Public
+
+- 📫 Email me at: hansrojas.co@gmail.com
 
 Links
 https://learn.microsoft.com/es-es/users/hansrojas/
