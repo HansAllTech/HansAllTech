@@ -11,9 +11,11 @@
 - 📫 Email me at: hansrojas.co@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hansrojas-tec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/hansrojas-tec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a></p>
+
+<p align="left"><a href="https://www.linkedin.com/in/hansrojas-tec/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/116538899/233758429-6a406dc7-99ce-472c-9143-a2804d361cbe.png"  height="30" width="40" /></a></p>
+![Linkedin_logo]()
+
 
 Links
 https://learn.microsoft.com/es-es/users/hansrojas/
