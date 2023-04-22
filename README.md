@@ -4,7 +4,7 @@
 # Hi there 👋
 ⚡I'm Hans, I'm a passionate technology enthusiast with over three years of experience in different engineering fields such as mining, water, gas and so on. I have a strong passion for entrepreneurship and are always looking for ways to innovate and create something new. With a keen eye for detail and a results-oriented mindset.
 
-- 👨‍💻 My Portfolio Projects are in: [Data Analysis Portfolio](https://github.com/HansAllTech/Hans_Data_Analysis_Portfolio#hans---data-analysis-portfolio) 
+- 👨‍💻 My Portfolio Projects are in: [Data Analysis Portfolio](https://github.com/HansAllTech/Hans_Data_Analysis_Portfolio#hans---data-analysis-portfolio)  
  
 - 🌱 SQL Repository: [Usefull features](https://github.com/HansAllTech/SQL_useful_features/wiki/SQL-Aggregate-Functions)
 
