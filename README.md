@@ -1,3 +1,6 @@
+![banner hans linkedin 1 (3)](https://user-images.githubusercontent.com/116538899/233757130-a89009e9-8fad-450d-ba57-488620c80fb0.png)
+
+
 ### Hi there 👋
 ⚡I'm Hans, I'm a passionate technology enthusiast with over three years of experience in different engineering fields such as mining, water, gas and so on. I have a strong passion for entrepreneurship and are always looking for ways to innovate and create something new. With a keen eye for detail and a results-oriented mindset.
 
