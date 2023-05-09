@@ -23,7 +23,7 @@
 <code><img src="https://user-images.githubusercontent.com/116538899/233759937-b0e2543b-f54a-4c58-a722-2b0900da6887.png" alt="Mysql" height="50"/></code>
 </a>
 <a href="https://learn.microsoft.com/en-us/power-bi/">
-<code><img src="https://user-images.githubusercontent.com/116538899/233759349-46b4115e-3d9d-4867-8bac-2fa34c48b3aa.png" alt="powerbi" height="50"/></code>
+<code><img src="https://user-images.githubusercontent.com/116538899/233759349-46b4115e-3d9d-4867-8bac-2fa34c48b3aa.png" alt="powerbi" height="40"/></code>
 </a>
 <code><img src="https://user-images.githubusercontent.com/116538899/233759349-46b4115e-3d9d-4867-8bac-2fa34c48b3aa.png" height="40" alt="powerbi"></code>
 <code><img src="https://user-images.githubusercontent.com/116538899/233759411-c0a73217-4362-4b48-be33-af5662874f23.png" height="40" alt="office365"></code>  
