@@ -21,7 +21,7 @@
 <code><img src="https://user-images.githubusercontent.com/116538899/233759411-c0a73217-4362-4b48-be33-af5662874f23.png" height="40" alt="office365"></code>  
 <code><img src="https://user-images.githubusercontent.com/116538899/233759937-b0e2543b-f54a-4c58-a722-2b0900da6887.png" height="50" alt="Mysql"></code> 
 <code><img src="https://user-images.githubusercontent.com/116538899/233759227-728bf796-a462-4810-8b13-0c030befdb4d.png" height="40" alt="Looker"></code>   
-[(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png 300x200)](https://docs.python.org/3.10/tutorial/index.html)   
+ 
 
 
 
