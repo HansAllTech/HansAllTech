@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <code><img src="https://user-images.githubusercontent.com/116538899/233759201-d509e809-d67a-4000-9d64-f449d6c4c1b8.png" height="40" alt="SQL"></code>  
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" alt="python" ></code>(https://docs.python.org/3.10/tutorial/index.html)
+[<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" alt="python" ></code>](https://docs.python.org/3.10/tutorial/index.html)
 <code><img src="https://user-images.githubusercontent.com/116538899/233759349-46b4115e-3d9d-4867-8bac-2fa34c48b3aa.png" height="40" alt="powerbi"></code>
 <code><img src="https://user-images.githubusercontent.com/116538899/233759411-c0a73217-4362-4b48-be33-af5662874f23.png" height="40" alt="office365"></code>  
 <code><img src="https://user-images.githubusercontent.com/116538899/233759937-b0e2543b-f54a-4c58-a722-2b0900da6887.png" height="50" alt="Mysql"></code> 
