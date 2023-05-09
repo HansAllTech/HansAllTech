@@ -1,5 +1,3 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/116538899/233757130-a89009e9-8fad-450d-ba57-488620c80fb0.png" width= 90% height=90%></p> 
-</a>
 <a href="https://www.linkedin.com/in/hansrojas-tec/"> 
 <p align="center"><img src="https://user-images.githubusercontent.com/116538899/233757130-a89009e9-8fad-450d-ba57-488620c80fb0.png" alt="Linkedin" height=90% ></p> 
 </a>
