@@ -39,7 +39,9 @@
 <a href="https://git-scm.com/docs">
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/></code>
 </a>
-
+<a href="https://www.gitkraken.com/learn/git/best-practices">
+<code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
+</a>
 
 
 
