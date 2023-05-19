@@ -19,7 +19,7 @@
 <code><img src="https://user-images.githubusercontent.com/116538899/233759201-d509e809-d67a-4000-9d64-f449d6c4c1b8.png" alt="SQL" height="40"/></code>
 </a>
 <a href="https://docs.python.org/3.10/tutorial/index.html">
-<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="35"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="38"/></code>
 </a>
 <a href="https://dev.mysql.com/doc/refman/8.0/en/">
 <code><img src="https://user-images.githubusercontent.com/116538899/233759937-b0e2543b-f54a-4c58-a722-2b0900da6887.png" alt="Mysql" height="50"/></code>
