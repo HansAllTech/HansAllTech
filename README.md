@@ -21,6 +21,9 @@
 <a href="https://docs.python.org/3.10/tutorial/index.html"> 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"/></code>
 </a>
+<a href="https://docs.python.org/3.10/tutorial/index.html">
+<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/></code>
+</a>
 <a href="https://dev.mysql.com/doc/refman/8.0/en/">
 <code><img src="https://user-images.githubusercontent.com/116538899/233759937-b0e2543b-f54a-4c58-a722-2b0900da6887.png" alt="Mysql" height="50"/></code>
 </a>
@@ -42,6 +45,8 @@
 <a href="https://www.gitkraken.com/learn/git/best-practices">
 <code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
 </a>
+
+
 
 
 
