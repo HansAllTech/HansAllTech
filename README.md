@@ -34,7 +34,7 @@
 <code><img src="https://user-images.githubusercontent.com/116538899/233759227-728bf796-a462-4810-8b13-0c030befdb4d.png" alt="Looker" height="40"/></code>
 </a>
 <a href="https://www.markdownguide.org/basic-syntax">
-<code><img src="https://github.com/HansAllTech/HansAllTech/assets/116538899/e4da6ac8-2f37-4374-b55b-dfa169b7e8f2" alt="Markdown" height="40"/></code>
+<code><img src="https://github.com/HansAllTech/HansAllTech/assets/116538899/e4da6ac8-2f37-4374-b55b-dfa169b7e8f2.png" alt="Markdown" height="40"/></code>
 </a>
 
 
