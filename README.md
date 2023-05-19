@@ -33,8 +33,8 @@
 <a href="https://cloud.google.com/looker/docs/intro?hl=es-419">
 <code><img src="https://user-images.githubusercontent.com/116538899/233759227-728bf796-a462-4810-8b13-0c030befdb4d.png" alt="Looker" height="40"/></code>
 </a>
-<a href="https://cloud.google.com/looker/docs/intro?hl=es-419">
-<code><img src="https://user-images.githubusercontent.com/116538899/233759227-728bf796-a462-4810-8b13-0c030befdb4d.png" alt="Looker" height="40"/></code>
+<a href="https://training.github.com/downloads/github-git-cheat-sheet/">
+<code><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="40"/></code>
 </a>
 <a href="https://git-scm.com/docs">
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/></code>
