@@ -43,7 +43,7 @@
 <code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
 </a>
  
- 
+  
 
    
  
