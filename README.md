@@ -42,8 +42,13 @@
 <a href="https://www.gitkraken.com/learn/git/best-practices">
 <code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
 </a>
- 
+</a>
+<a href="https://numpy.org/doc/stable/user/index.html">
+<code><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" height="40"/></code>
+</a>
   
+  
+   
    
    
  
