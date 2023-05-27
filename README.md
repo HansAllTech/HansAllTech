@@ -47,8 +47,12 @@
 <code><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" height="40"/></code>
 </a>
 <a href="https://pandas.pydata.org/docs/user_guide/index.html">
-<code><img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Numpy" height="40"/></code>
+<code><img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="40"/></code>
 </a>  
+<a href="https://www.markdownguide.org/cheat-sheet/">
+<code><img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="Markdown" height="30"/></code>
+</a>    
+  
   
    
    
