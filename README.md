@@ -46,7 +46,9 @@
 <a href="https://numpy.org/doc/stable/user/index.html">
 <code><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" height="40"/></code>
 </a>
-  
+<a href="https://numpy.org/doc/stable/user/index.html">
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Numpy" height="40"/></code>
+</a>  
   
    
    
