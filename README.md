@@ -44,7 +44,7 @@
 </a>
 </a>
 <a href="https://numpy.org/doc/stable/user/index.html">
-<code><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" height="40"/></code>
+<code><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" height="40"/></code>
 </a>
 <a href="https://pandas.pydata.org/docs/user_guide/index.html">
 <code><img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Numpy" height="40"/></code>
