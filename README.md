@@ -39,9 +39,6 @@
 <a href="https://git-scm.com/docs">
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/></code>
 </a>
-<a href="https://www.gitkraken.com/learn/git/best-practices">
-<code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
-</a>
 </a>
 <a href="https://numpy.org/doc/stable/user/index.html">
 <code><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" height="40"/></code>
@@ -55,7 +52,9 @@
 <a href="https://support.atlassian.com/trello/docs/how-to-format-your-text-in-trello/">
 <code><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" height="30"/></code>
 </a>      
-  
+<a href="https://www.gitkraken.com/learn/git/best-practices">
+<code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
+</a>  
   
    
    
