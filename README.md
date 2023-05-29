@@ -52,6 +52,9 @@
 <a href="https://www.markdownguide.org/cheat-sheet/">
 <code><img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="Markdown" height="30"/></code>
 </a>    
+<a href="https://support.atlassian.com/trello/docs/how-to-format-your-text-in-trello/">
+<code><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" height="30"/></code>
+</a>      
   
   
    
