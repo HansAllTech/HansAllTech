@@ -52,10 +52,13 @@
 <a href="https://support.atlassian.com/trello/docs/how-to-format-your-text-in-trello/">
 <code><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" height="30"/></code>
 </a>      
+<a href="https://matplotlib.org/">
+<code><img src="https://matplotlib.org/_static/logo_dark.svg" alt="Matplotlib" height="40"/></code>
+</a>  
 <a href="https://www.gitkraken.com/learn/git/best-practices">
 <code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
 </a>  
-  
+    
    
    
    
