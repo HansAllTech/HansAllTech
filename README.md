@@ -55,7 +55,7 @@
 <a href="https://matplotlib.org/">
 <code><img src="https://matplotlib.org/_static/logo_dark.svg" alt="Matplotlib" height="40"/></code>
 </a>  
-<a href="https://www.gitkraken.com/learn/git/best-practices">
+<a href="https://seaborn.pydata.org/">
 <code><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="40"/></code>
 </a>  
 <a href="https://www.gitkraken.com/learn/git/best-practices">
