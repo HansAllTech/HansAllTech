@@ -56,10 +56,12 @@
 <code><img src="https://matplotlib.org/_static/logo_dark.svg" alt="Matplotlib" height="40"/></code>
 </a>  
 <a href="https://www.gitkraken.com/learn/git/best-practices">
-<code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
+<code><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" height="40"/></code>
 </a>  
-    
-   https://seaborn.pydata.org/_static/logo-wide-lightbg.svg
+<a href="https://www.gitkraken.com/learn/git/best-practices">
+<code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
+</a>     
+   
    
    
  
