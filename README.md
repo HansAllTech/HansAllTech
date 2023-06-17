@@ -61,8 +61,10 @@
 <a href="https://www.gitkraken.com/learn/git/best-practices">
 <code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
 </a>     
-   
-   ![output](https://github.com/HansAllTech/HansAllTech/assets/116538899/2a091964-06ea-4535-864c-feecdb4fdea0)
+<a href="https://www.gitkraken.com/learn/git/best-practices">
+<code><img src="https://github.com/HansAllTech/HansAllTech/assets/116538899/2a091964-06ea-4535-864c-feecdb4fdea0" alt="Gitkraken" height="40"/></code>
+</a>      
+
 
   
  
