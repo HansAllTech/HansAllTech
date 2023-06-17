@@ -62,7 +62,8 @@
 <code><img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Gitkraken" height="40"/></code>
 </a>     
    
-   
-   file:///C:/Users/Usuario/Documents/Condaenv/mod_5/output.svg
+   ![output](https://github.com/HansAllTech/HansAllTech/assets/116538899/2a091964-06ea-4535-864c-feecdb4fdea0)
+
+  
  
 
