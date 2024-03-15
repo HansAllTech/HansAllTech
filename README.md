@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/hansrojas-tec/"> 
+<a href="https://www.linkedin.com/in/hansrojas-tech/"> 
 <p align="center"><img src="https://user-images.githubusercontent.com/116538899/233757130-a89009e9-8fad-450d-ba57-488620c80fb0.png" alt="Linkedin" height=90% ></p> 
 </a>
  
