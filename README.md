@@ -12,7 +12,7 @@
 - 📫 Email me at: hansrojas.co@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/hansrojas-tec/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/116538899/233759051-5bf4a931-8b15-46b4-8bb3-4d0788b32d3a.png"  height=4% width=4%></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/hansrojas-tech/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/116538899/233759051-5bf4a931-8b15-46b4-8bb3-4d0788b32d3a.png"  height=4% width=4%></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.sqltutorial.org/"> 
